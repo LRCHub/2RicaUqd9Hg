@@ -1,0 +1,39 @@
+# The Beatles – Twist And Shout (Remastered 2009)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.31] Well, shake it up, baby, now (Shake it up, baby)
+[00:11.17] Twist and shout (Twist and shout)
+[00:14.51] Come on, come on, come on, come on, baby, now (Come on, baby)
+[00:18.16] Come on and work it on out (Work it on out)
+[00:39.66] 
+[00:22.08] Well, work it on out, honey (Work it on out)
+[00:25.69] You know, you look so good (Look so good)
+[00:29.47] You know, you got me going, now (Got me going)
+[00:33.10] Just like I knew you would (Like I knew you would)
+[00:58.10] 
+[00:37.33] Well, shake it up, baby, now (Shake it up, baby)
+[00:41.21] Twist and shout (Twist and shout)
+[00:44.51] Come on, come on, come on, come on, baby, now (Come on, baby)
+[00:48.38] Come on and work it on out (Work it on out)
+[01:09.88] 
+[00:52.00] You know you twist, you little girl (Twist, little girl)
+[00:55.85] You know you twist so fine (Twist so fine)
+[00:59.65] Come on and twist a little closer, now (Twist a little closer)
+[01:03.55] And let me know that you're mine (Let me know you're mine)
+[01:32.55] 
+[01:34.45] Yeah, shake it up, baby, now (Shake it up, baby)
+[01:39.58] Twist and shout (Twist and shout)
+[01:42.62] Come on, come on, come on, come on, baby, now (Come on, baby)
+[01:46.42] Come on and work it on out (Work it on out)
+[02:07.92] 
+[01:50.23] You know you twist, you little girl (Twist, little girl)
+[01:53.98] You know you twist so fine (Twist so fine)
+[01:57.93] Come on and twist a little closer, now (Twist a little closer)
+[02:01.70] And let me know that you're mine (Let me know you're mine)
+[02:30.70] 
+[02:05.52] Well, shake it, shake it, shake it, baby, now (Shake it up, baby)
+[02:09.43] Well, shake it, shake it, shake it, baby, now (Shake it up, baby)
+[02:13.39] Well, shake it, shake it, shake it, baby, now (Shake it up, baby)
+```
