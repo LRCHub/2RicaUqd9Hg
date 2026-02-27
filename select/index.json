@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Twist And Shout (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-27T10:02:48.575786Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Twist And Shout (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Twist_And_Shout_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Twist And Shout - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Twist_And_Shout_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Twist And Shout - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Twist_And_Shout_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Twist And Shout (Remastered 2009)",
+      "artist": "Beatles",
+      "has_synced": true,
+      "path": "select/04_Twist_And_Shout_(Remastered_2009)_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Twist And Shout (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Twist_And_Shout_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Twist And Shout (Remastered 2009)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/06_Twist_And_Shout_(Remastered_2009)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Twist And Shout (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Twist_And_Shout_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Twist And Shout (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/08_Twist_And_Shout_(Remastered_2009)_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Twist And Shout (Remastered 2009)",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/09_Twist_And_Shout_(Remastered_2009)_Various.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Twist And Shout (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Twist_And_Shout_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Twist And Shout (Remastered 2009)",
+      "artist": "The Beatles - Topic",
+      "has_synced": true,
+      "path": "select/11_Twist_And_Shout_(Remastered_2009)_The_Beatles_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Twist And Shout (Remastered)",
+      "artist": "Bruce Springsteen",
+      "has_synced": false,
+      "path": "select/12_Twist_And_Shout_(Remastered)_Bruce_Springsteen.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Twist And Shout - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Twist_And_Shout_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Twist And Shout - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Twist_And_Shout_-_Remastered_2009_The_Beatles.txt"
+    }
+  ]
+}
